@@ -13,7 +13,7 @@ print(main(lst))
 
 
 #palindrome of string
-num=[1,2,4,5,6,7]
+num=4
 for i in range(0,num):
     a=list(map(int,input("Enter a num").strip().split(" ")))[:num]
 print(a)
