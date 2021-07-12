@@ -13,6 +13,7 @@ print(lst)
 print("\n")
 print("It's subet...")
 print("\n")
+print("\n")
 print(main(lst))
 
     
